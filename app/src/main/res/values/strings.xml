@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">simple calculator</string>
+    <string name="string">%</string>
+    <string name="strings">*</string>
+    <string name="stringg">+</string>
+    <string name="String">-</string>
+    <string name="enter_a_second_number">Enter a second number</string>
+    <string name="result">Result</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="simple_calculator">Simple Calculator</string>
+</resources>
